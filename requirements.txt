@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+os
+st_files_connection
+ocifs
+sqlalchemy
+oracledb
